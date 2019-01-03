@@ -12,7 +12,7 @@ Just clone this repo.
 1. do this:
 
 ```
-$ git clone TODO
+$ git clone https://github.com/sosmii/puppeteer-typescript-boilerplate.git
 $ cd puppeteer-typescript-boilerplate
 $ npm i
 $ rm -rf .git
